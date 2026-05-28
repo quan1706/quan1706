@@ -9,7 +9,9 @@
 <br>
 
 <!-- ═══════════════ ANIMATED COSMIC BANNER ═══════════════ -->
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="700" alt="Cosmic Space Animation"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,8,20&height=200&section=header&text=%F0%9F%8C%8C%20CODE%20THE%20FUTURE%20%F0%9F%94%A5&fontSize=36&fontColor=FF6B00&animation=scaleIn&fontAlignY=50" width="100%" alt="Cosmic Space Banner"/>
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,12,24&height=100&section=footer&animation=fadeIn" width="100%" alt="Cosmic Divider"/>
 
 <br><br>
 
@@ -89,12 +91,12 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=quan1706&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B00&icon_color=FF8C00&text_color=FFB347&ring_color=FF6B00" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=quan1706&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B00&fire=FF8C00&currStreakLabel=FFB347&sideLabels=FFB347&dates=888" alt="GitHub Streak" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=quan1706&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B00&fire=FF8C00&currStreakLabel=FFB347&sideLabels=FFB347&dates=888888" alt="GitHub Streak" width="49%"/>
 
 <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quan1706&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B00&text_color=FFB347" alt="Top Languages" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=quan1706&bg_color=0D1117&color=FF8C00&line=FF6B00&point=FFB347&area=true&hide_border=true" alt="Activity Graph" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=quan1706&bg_color=0D1117&color=FF8C00&line=FF6B00&point=FFB347&area=true&hide_border=true&area_color=FF6B0033" alt="Activity Graph" width="49%"/>
 
 </div>
 
