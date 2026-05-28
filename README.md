@@ -1,17 +1,12 @@
 <div align="center">
 
-<!-- ═══════════════ HEADER BANNER ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=NGUY%E1%BB%84N%20TAM%20QU%C3%82N&fontSize=48&fontColor=FF6B00&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Sci-Fi%20Code%20Architect&descAlignY=58&descColor=FFB347&animation=fadeIn" width="100%"/>
-
-<!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&pause=1200&color=FF6B00&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%9A%80+Welcome+to+my+Sci-Fi+Universe!;%E2%9A%A1+Futuristic+Frontend+Developer;%F0%9F%94%A5+Code+%7C+Create+%7C+Innovate;%F0%9F%8C%8C+Building+the+Future%2C+One+Commit+at+a+Time;%F0%9F%A4%96+Passionate+about+React+%26+Three.js" alt="Typing Animation"/>
+<!-- ═══════════════ CUSTOM ANIMATED HEADER (Galaxy + Shooting Stars) ═══════════════ -->
+<img src="https://raw.githubusercontent.com/quan1706/quan1706/main/assets/header.svg" width="100%" alt="Nguyễn Tam Quân - Sci-Fi Header"/>
 
 <br>
 
-<!-- ═══════════════ ANIMATED COSMIC BANNER ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,8,20&height=200&section=header&text=%F0%9F%8C%8C%20CODE%20THE%20FUTURE%20%F0%9F%94%A5&fontSize=36&fontColor=FF6B00&animation=scaleIn&fontAlignY=50" width="100%" alt="Cosmic Space Banner"/>
-
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,12,24&height=100&section=footer&animation=fadeIn" width="100%" alt="Cosmic Divider"/>
+<!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=18&pause=1200&color=FF6B00&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%9A%80+Welcome+to+my+Sci-Fi+Universe!;%E2%9A%A1+Futuristic+Frontend+Developer;%F0%9F%94%A5+Code+%7C+Create+%7C+Innovate;%F0%9F%8C%8C+Building+the+Future%2C+One+Commit+at+a+Time;%F0%9F%A4%96+Passionate+about+React+%26+Three.js" alt="Typing Animation"/>
 
 <br><br>
 
@@ -27,8 +22,6 @@
 ---
 
 <!-- ═══════════════ ABOUT ME ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20&height=3&width=100%" width="100%"/>
-
 ### 🧑‍🚀 Nguyễn Tam Quân — _Developer từ Tương Lai_
 
 <table>
@@ -74,7 +67,7 @@
 
 <br><br>
 
-<!-- Skill level bars -->
+<!-- Skill level badges -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-FF6B00?style=flat-square&logo=javascript&logoColor=white&labelColor=1a1a2e)
 ![React](https://img.shields.io/badge/React-Advanced-FF8C00?style=flat-square&logo=react&logoColor=white&labelColor=1a1a2e)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-FF6B00?style=flat-square&logo=typescript&logoColor=white&labelColor=1a1a2e)
@@ -90,7 +83,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=quan1706&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B00&icon_color=FF8C00&text_color=FFB347&ring_color=FF6B00" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=quan1706&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B00&icon_color=FF8C00&text_color=FFB347" alt="GitHub Stats" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=quan1706&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B00&fire=FF8C00&currStreakLabel=FFB347&sideLabels=FFB347&dates=888888" alt="GitHub Streak" width="49%"/>
 
 <br><br>
